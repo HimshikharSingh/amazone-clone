@@ -3,6 +3,7 @@ import './App.css';
 import Header from './Header.js';
 
 
+
 function App() {
   return (
     <div className="App">
@@ -10,7 +11,7 @@ function App() {
       {/* Header */}
       <Header/>
       {/* Home */}
-      <Home/>
+      
     </div>
   );
 }
