@@ -33,3 +33,12 @@
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
 }
+
+.prod-rate{
+
+    display: flex;
+    /* align-items: center;
+    justify-content: center;
+    margin-top: 5px; */
+    
+}
